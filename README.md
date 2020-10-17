@@ -1,3 +1,3 @@
 # sreamlit
 streamit usage
-gjhfhdhgd
+Как сделать графику на страничке Streamlit
